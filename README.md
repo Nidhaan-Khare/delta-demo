@@ -1,6 +1,6 @@
 # delta-demo
-learning
+learning hello hunny bunny.
 
 
-hello hunny bunny
+
 
